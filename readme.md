@@ -4,7 +4,7 @@ By Prince Kr Paswan
 
 This app is responsive for mobiles 
 
-#Manual 
+# Manual 
 
 Hamburger button available on the mobile screen
 
