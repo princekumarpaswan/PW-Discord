@@ -6,7 +6,7 @@ This app is responsive for mobiles
 
 # Manual 
 
-Hamburger button available on the mobile screen
+Hamburger button available on the mobile screen.
 
 ## [Live Link of Discord clone](https://discord-clonep.netlify.app/)
 
